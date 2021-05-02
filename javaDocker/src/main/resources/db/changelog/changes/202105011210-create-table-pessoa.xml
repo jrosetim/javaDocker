@@ -22,7 +22,7 @@
             <column name="NOME" type="VARCHAR(255)">
                 <constraints nullable="false" />
             </column>
-            <column name="CNPJCNPF" type="VARCHAR(14)">
+            <column name="CNPJCPF" type="VARCHAR(14)">
                 <constraints nullable="false" />
             </column>
             <column name="TELEFONE" type="VARCHAR(20)">
