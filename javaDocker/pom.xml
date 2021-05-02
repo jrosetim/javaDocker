@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.javaDocker</groupId>
 	<artifactId>javaDocker</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
+	<version>0</version>
 	<name>javaDocker</name>
 	<description>Demo project for Spring Boot and Liquibase</description>
 
@@ -68,15 +68,6 @@
 			<plugin>
 				<groupId>org.apache.maven.plugins</groupId>
 				<artifactId>maven-jar-plugin</artifactId>
-				<configuration>
-<!--					<finalName>javaDocker</finalName>-->
-<!--					<archive>-->
-<!--						<manifest>-->
-<!--							<addClasspath>true</addClasspath>-->
-<!--							<mainClass>JavaDockerApplication.class</mainClass>-->
-<!--						</manifest>-->
-<!--					</archive>-->
-				</configuration>
 			</plugin>
 		</plugins>
 
